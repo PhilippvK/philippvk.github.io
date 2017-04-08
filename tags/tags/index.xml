@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Philipp van Kempen</title>
-    <link>http://localhost:1313/hugo/first/tags/tags/index.xml</link>
+    <link>https://philippvk.github.io/tags/tags/index.xml</link>
     <description>Recent content in Tags on Philipp van Kempen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2017 Philipp van Kempen</copyright>
-    <atom:link href="http://localhost:1313/hugo/first/tags/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://philippvk.github.io/tags/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Title</title>
-      <link>http://localhost:1313/hugo/first/home/</link>
+      <link>https://philippvk.github.io/home/</link>
       <pubDate>Sun, 09 Apr 2017 00:45:54 +0200</pubDate>
       
-      <guid>http://localhost:1313/hugo/first/home/</guid>
+      <guid>https://philippvk.github.io/home/</guid>
       <description>&lt;p&gt;123&lt;/p&gt;
 </description>
     </item>
