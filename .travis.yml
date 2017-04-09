@@ -1,20 +1,23 @@
 language: go
 install: go get -v github.com/spf13/hugo
 script:
-  - hugo
-  - ls -l
-  - git clone https://github.com/PhilippvK/philippvk.github.io.git
-  - ls -l
-  - cd philippvk.github.io
-  - git pull
-  - cp -r ../public/* .
-  - ls -l
-  - git add .
-  - git commit -m "Upload to GitHub Pages"
-  - git push
-  - rm -rf public/
-  - rm -rf philippvk.github.io/
-  - ls -l
+- hugo
+- ls -l
+- git clone https://github.com/PhilippvK/philippvk.github.io.git
+- ls -l
+- cd philippvk.github.io
+- git pull
+- cp -r ../public/* .
+- ls -l
+- git add .
+- git commit -m "Upload to GitHub Pages"
+- git push
+- rm -rf public/
+- rm -rf philippvk.github.io/
+- ls -l
 notifications:
-    email:
-        on_failure: always
+  email:
+    on_failure: always
+before_install:
+- openssl aes-256-cbc -K $encrypted_3381ffcb5528_key -iv $encrypted_3381ffcb5528_iv
+  -in deploy_key.enc -out deploy_key -d
