@@ -4,7 +4,6 @@ script:
   - hugo
   - python --version
   - sudo pip install s3cmd
-  - s3cmd sync --delete-removed -P -M -r public/ s3://continuousfailure.com/
 notifications:
     email:
         on_failure: always
