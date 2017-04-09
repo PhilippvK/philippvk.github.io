@@ -1,5 +1,9 @@
 language: go
 install: go get -v github.com/spf13/hugo
+## Update composer and run the appropriate composer command
+before_script:
+  - composer self-update -q
+  - if [ -n "$GH_TOKEN" ]; then composer config github-oauth.github.com ${GH_TOKEN}; fi;
 script:
 - hugo
 - ls -l
