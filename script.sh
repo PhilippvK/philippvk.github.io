@@ -1,12 +1,13 @@
-ll
+ls -l
 https://github.com/fuegowolf/cocoa-eh-hugo-theme.git
 cd philippvk.github.io/
-git checkout master
+#git checkout master
 git pull
 cp -r ../public/* .
-ll
+ls -l
 git add .
 git commit -m "Upload to GitHub Pages"
 git push
 rm -rf public/
-ll
+rm -rf philippvk.github.io/
+ls -l
