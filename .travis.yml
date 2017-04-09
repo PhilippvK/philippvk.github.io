@@ -10,6 +10,7 @@ script:
 - cd philippvk.github.io
 - git config user.email "phvankempen@googlemail.com"
 - git config user.name "Travis"
+- git config --global push.default matching
 - git pull
 - cp -r ../public/* .
 - ls -l
