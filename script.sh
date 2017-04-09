@@ -1,4 +1,4 @@
-ls -l
+als -l
 git clone https://github.com/PhilippvK/philippvk.github.io.git
 ls -l
 cd philippvk.github.io
