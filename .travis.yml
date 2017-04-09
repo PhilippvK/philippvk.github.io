@@ -2,8 +2,18 @@ language: go
 install: go get -v github.com/spf13/hugo
 script:
   - hugo
-  - python --version
-  - sudo pip install s3cmd
+  - ll
+  - git clone https://github.com/fuegowolf/cocoa-eh-hugo-theme.git
+  - cd philippvk.github.io/
+  - git checkout master
+  - git pull
+  - cp -r ../public/* .
+  - ll
+  - git add .
+  - git commit -m "Upload to GitHub Pages"
+  - git push
+  - rm -rf public/
+  - ll
 notifications:
     email:
         on_failure: always
