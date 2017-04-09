@@ -5,7 +5,6 @@ script:
   - ls -l
   - git clone https://github.com/fuegowolf/cocoa-eh-hugo-theme.git
   - cd philippvk.github.io/
-  - git checkout master
   - git pull
   - cp -r ../public/* .
   - ls -l
@@ -13,6 +12,7 @@ script:
   - git commit -m "Upload to GitHub Pages"
   - git push
   - rm -rf public/
+  - rm -rf philippvk.github.io/
   - ls -l
 notifications:
     email:
