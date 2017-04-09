@@ -1,6 +1,7 @@
 ls -l
-https://github.com/fuegowolf/cocoa-eh-hugo-theme.git
-cd philippvk.github.io/
+git clone https://github.com/PhilippvK/philippvk.github.io.git
+ls -l
+cd philippvk.github.io
 #git checkout master
 git pull
 cp -r ../public/* .
