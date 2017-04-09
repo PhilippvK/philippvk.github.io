@@ -3,6 +3,8 @@ install: go get -v github.com/spf13/hugo
 script:
 - hugo
 - ls -l
+- git config user.email "phvankempen@googlemail.com"
+- git config user.name "Travis"
 - git clone https://github.com/PhilippvK/philippvk.github.io.git
 - ls -l
 - cd philippvk.github.io
