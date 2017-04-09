@@ -8,6 +8,8 @@ script:
 - git clone https://github.com/PhilippvK/philippvk.github.io.git
 - ls -l
 - cd philippvk.github.io
+- git config user.email "phvankempen@googlemail.com"
+- git config user.name "Travis"
 - git pull
 - cp -r ../public/* .
 - ls -l
