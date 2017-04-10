@@ -1,3 +1,36 @@
 [submodule "themes/cocoa-eh-hugo-theme"]
 	path = themes/cocoa-eh-hugo-theme
 	url = https://github.com/fuegowolf/cocoa-eh-hugo-theme.git
+[submodule "themes/beautifulhugo"]
+	path = themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "themes/hugo-base-theme"]
+	path = themes/hugo-base-theme
+	url = https://github.com/crakjie/hugo-base-theme.git
+[submodule "themes/hugo-theme-bleak"]
+	path = themes/hugo-theme-bleak
+	url = https://github.com/Zenithar/hugo-theme-bleak.git
+[submodule "themes/foundation-theme"]
+	path = themes/foundation-theme
+	url = https://github.com/hdcdstr8fwd/foundation-theme.git
+[submodule "themes/hugo-hello-programmer-theme"]
+	path = themes/hugo-hello-programmer-theme
+	url = https://github.com/lubang/hugo-hello-programmer-theme
+[submodule "themes/ghostwriter"]
+	path = themes/ghostwriter
+	url = https://github.com/jbub/ghostwriter
+[submodule "themes/themes/hugo-sustain"]
+	path = themes/themes/hugo-sustain
+	url = https://github.com/nurlansu/hugo-sustain.git
+[submodule "themes/hugo-cactus-theme"]
+	path = themes/hugo-cactus-theme
+	url = https://github.com/digitalcraftsman/hugo-cactus-theme.git
+[submodule "themes/hugo-lithium-theme"]
+	path = themes/hugo-lithium-theme
+	url = https://github.com/jrutheiser/hugo-lithium-theme
+[submodule "themes/hyde"]
+	path = themes/hyde
+	url = https://github.com/spf13/hyde.git
+[submodule "themes/hugo-theme-introduction"]
+	path = themes/hugo-theme-introduction
+	url = https://github.com/vickylaixy/hugo-theme-introduction.git
