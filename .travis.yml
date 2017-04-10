@@ -13,5 +13,6 @@ deploy:
   skip_cleanup: true
   github_token: $GitHub_Token # Set in travis-ci.org dashboard
   target_branch: master
+  folder: public
   on:
     branch: source
