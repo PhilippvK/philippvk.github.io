@@ -8,7 +8,6 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 author = "Philipp van Kempen"
-disqusshortname = ""
 pluralizelisttitles = false
 
 [permalinks]
