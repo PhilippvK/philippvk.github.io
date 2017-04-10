@@ -12,8 +12,6 @@ deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GitHub_Token # Set in travis-ci.org dashboard
-  local_dir: public
   target_branch: master
-  fqdn: https://philippvk.github.io
   on:
     branch: master
