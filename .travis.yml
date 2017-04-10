@@ -6,8 +6,6 @@ notifications:
   email:
     on_failure: always
 before_install:
-  - cp .netrc ~
-  - chmod 600 .netrc
 - openssl aes-256-cbc -K $encrypted_3381ffcb5528_key -iv $encrypted_3381ffcb5528_iv
   -in deploy_key.enc -out deploy_key -d
 deploy:
