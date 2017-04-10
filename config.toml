@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "Philipp van Kempen"
+title = "Philipp van Kempen_"
 baseURL = "https://philippvk.github.io/"
 theme="cocoa-eh-hugo-theme"
 builddrafts = true
