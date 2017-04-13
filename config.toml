@@ -1,7 +1,7 @@
 baseurl             = "/"
 languageCode        = "en-us"
 title               = "Phi."
-theme               = "introduction"
+theme               = "hugo-theme-introduction"
 enforce_ssl         = "philippvk.github.io"
 builddrafts         = true # DEBUG
 canonifyurls        = true
