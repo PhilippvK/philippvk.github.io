@@ -20,7 +20,7 @@ author        = "Philipp van Kempen" # Full name shows on blog post pages
 firstname     = "Phi" # First name shows in introduction on main page
 tagline       = "I'm a programmer and studying Electrical Engineering." # Appears after the introduction
 introheight   = "medium" # Input either 'medium' or 'large' or 'fullheight'
-avatar        = "img/logo.png" # Path to image in static folder eg. img/avatar.png 
+avatar        = "img/Scan_Photo.jpg" # Path to image in static folder eg. img/avatar.png 
 email         = "phvankempen@googlemail.com" # Shows in contact section, or leave blank to omit
 dateform      = "Jan 2, 2006"
 dateformfull  = "Mon Jan 2 2006 15:04:05 EST"
@@ -29,7 +29,7 @@ description   = "Philipp van Kempen's"
 faviconfile   = "img/logo.png"
 highlightjs   = true # Syntax highlighting
 lang          = "en"
-footertext    = "Introduction theme by Vicky Lai for Hugo. Copyright by Philipp van Kempen, 2017" # Text to show in footer (overrides default text)
+footertext    = "Introduction theme by Vicky Lai for Hugo © Philipp van Kempen - 2017" # Text to show in footer (overrides default text)
 
 # Social icons appear in introduction and contact section. Input your username only, eg "you" as it appears in "twitter.com/you"
 linkedin      = "philipp-van-kempen-8628b7124"
@@ -50,12 +50,12 @@ showprojects    = true # Show Projects section on home page
 # This is your projects section. Three images of the same dimensions will look the nicest. If images are omitted, text links will be shown.
 project1link    = "#"
 project1img     = "img/project1.jpg"
-project1title   = "TUM"
+project1title   = "Gadgets"
 
 project2link    = "#"
-project2img     = "img/Asset.jpg"
-project2title   = "Raspberry Pi"
+project2img     = "img/project2.jpg"
+project2title   = "Music"
 
 project3link    = "#"
 project3img     = "img/project3.jpg"
-project3title   = "Swift"    
+project3title   = "Electronics"    
