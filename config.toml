@@ -8,8 +8,8 @@ canonifyurls        = true
 contentdir          = "content"
 layoutdir           = "layouts"
 publishdir          = "public"
-# disqusshortname   = "xxx" # Enable Disqus for comments
-# googleAnalytics   = "xxx"
+# disqusshortname   = "x" # Enable Disqus for comments
+# googleAnalytics   = "x"
 
 [permalinks]
 fixed = ":title/"
