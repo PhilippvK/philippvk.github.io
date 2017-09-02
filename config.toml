@@ -20,7 +20,7 @@ author        = "Philipp van Kempen" # Full name shows on blog post pages
 firstname     = "Phi" # First name shows in introduction on main page
 tagline       = "I'm a programmer and studying Electrical Engineering." # Appears after the introduction
 introheight   = "medium" # Input either 'medium' or 'large' or 'fullheight'
-avatar        = "img/Scan_Photo.jpg" # Path to image in static folder eg. img/avatar.png 
+avatar        = "img/Scan_Photo.jpg" # Path to image in static folder eg. img/avatar.png
 email         = "phvankempen@googlemail.com" # Shows in contact section, or leave blank to omit
 dateform      = "Jan 2, 2006"
 dateformfull  = "Mon Jan 2 2006 15:04:05 EST"
@@ -58,4 +58,4 @@ project2title   = "Music"
 
 project3link    = "#"
 project3img     = "img/project3.jpg"
-project3title   = "Electronics"    
+project3title   = "Electronics"

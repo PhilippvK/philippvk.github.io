@@ -5,6 +5,7 @@ title = "contact"
 
 +++
 
-This is where you overcome your social anxiety and let people know how to reach you.
+If you want to ask me anything, just write me a message! Choose the way how you do it by your own. ;)
 
-You could try linking to your [email](/), for instance. Just check it, okay?
+License:
+<a href="https://icons8.com/web-app/11673/Raspberry-Pi">Raspberry pi and other icons by Icons8</a>
