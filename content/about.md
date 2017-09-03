@@ -18,9 +18,13 @@ Gaming and game dev
 
 TU Munich
 
-internships and work experience
+If you are more interested in my work experience, IT skills,.. please check out my [https://linkedin.com/in/philipp-van-kempen-8628b7124](LinkedIn)
 
 TODO 
 
 
 ... 
+
+
+
+This is a static website generated with [https://gohugo.io](Hugo). The theme is called Introduction and made by Vicky Lai. Currently build by Travis CI and hosted on Github Pages the website is available under [https://phi.philonata.de](phi.philonata.de) and [http://philippvk.github.io](philippvk.github.io).
