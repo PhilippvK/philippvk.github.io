@@ -31,3 +31,6 @@
 [submodule "themes/hyde"]
 	path = themes/hyde
 	url = https://github.com/spf13/hyde.git
+[submodule "themes/introduction2"]
+	path = themes/introduction2
+	url = https://github.com/hivickylai/hugo-theme-introduction.git

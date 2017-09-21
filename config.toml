@@ -1,15 +1,14 @@
-baseurl             = "/"
+baseurl             = "philippvk.github.io/"
 languageCode        = "en-us"
 title               = "Phi."
-theme               = "introduction"
+theme               = "introduction2"
 enforce_ssl         = "philippvk.github.io"
-builddrafts         = true # DEBUG
+builddrafts         = false # DEBUG
 canonifyurls        = true
 contentdir          = "content"
 layoutdir           = "layouts"
 publishdir          = "public"
-# disqusshortname   = "x" # Enable Disqus for comments
-# googleAnalytics   = "x"
+# TODOL googleAnalytics   = "x"
 
 [permalinks]
 fixed = ":title/"
@@ -29,16 +28,32 @@ description   = "Philipp van Kempen's"
 faviconfile   = "img/logo.png"
 highlightjs   = true # Syntax highlighting
 lang          = "en"
+theme         = "light"
 footertext    = "Introduction theme by Vicky Lai for Hugo. Copyright © Philipp van Kempen - 2017" # Text to show in footer (overrides default text)
 
-# Social icons appear in introduction and contact section. Input your username only, eg "you" as it appears in "twitter.com/you"
-linkedin      = "philipp-van-kempen-8628b7124"
-twitter       = "phiologe"
-github        = "PhilippvK"
-codepen       = ""
-pinterest     = ""
-facebook      = "PhilippvK"
-googleplus    = "PhilippvanKempen1"
+[[params.social]]
+url = "https://twitter.com/phiologe"
+icon = "twitter"
+
+[[params.social]]
+url = "https://facebook.com/"
+icon = "facebook"
+
+[[params.social]]
+url = "https://www.xing.com/profile/Philipp_vanKempen"
+icon = "xing"
+
+[[params.social]]
+url = "https://www.linkedin.com/in/philipp-van-kempen-8628b7124/"
+icon = "linkedin"
+
+[[params.social]]
+url = "https://github.com/PhilippvK"
+icon = "github"
+
+[[params.social]]
+url = "https://plus.google.com/u/0/+PhilippvanKempen1"
+icon = "google-plus"
 
 showblog        = true # Show Blog section on home page
 showallposts    = false # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
