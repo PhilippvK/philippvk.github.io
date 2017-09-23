@@ -3,7 +3,7 @@ languageCode        = "en-us"
 title               = "Phi."
 theme               = "introduction2"
 #enforce_ssl         = "philippvk.github.io"
-builddrafts         = false # DEBUG
+builddrafts         = true # DEBUG
 canonifyurls        = true
 contentdir          = "content"
 layoutdir           = "layouts"
@@ -30,6 +30,7 @@ highlightjs   = true # Syntax highlighting
 lang          = "en"
 theme         = "light"
 footertext    = "Introduction theme by Vicky Lai for Hugo. Copyright © Philipp van Kempen - 2017" # Text to show in footer (overrides default text)
+fadein = true
 
 [[params.social]]
 url = "https://twitter.com/phiologe"
