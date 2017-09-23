@@ -5,6 +5,8 @@ title = "contact"
 
 +++
 
+This is a static website generated with [https://gohugo.io](Hugo). The theme is called Introduction and made by Vicky Lai. Currently build by Travis CI and hosted on Github Pages the website is available under [phi.philonata.de](https://phi.philonata.de) and [philippvk.github.io](https://philippvk.github.io).
+
 If you want to ask me anything, just write me a message! Choose the way how you do it by your own. ;)
 
 License:

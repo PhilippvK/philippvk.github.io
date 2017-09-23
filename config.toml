@@ -8,7 +8,7 @@ canonifyurls        = true
 contentdir          = "content"
 layoutdir           = "layouts"
 publishdir          = "public"
-# TODOL googleAnalytics   = "x"
+googleAnalytics   = "UA-106863833-1"
 
 [permalinks]
 fixed = ":title/"
@@ -31,6 +31,8 @@ lang          = "en"
 theme         = "light"
 footertext    = "Introduction theme by Vicky Lai for Hugo. Copyright © Philipp van Kempen - 2017" # Text to show in footer (overrides default text)
 fadein = true
+localtime = true # Show your current local time in contact section
+timezone = "Europe/Berlin" # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 [[params.social]]
 url = "https://twitter.com/phiologe"
@@ -57,7 +59,7 @@ url = "https://plus.google.com/u/0/+PhilippvanKempen1"
 icon = "google-plus"
 
 showblog        = true # Show Blog section on home page
-showallposts    = false # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
+showallposts    = true # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
 showlatest      = true # Show latest blog post summary
 sharebuttons    = true # On post pages, show share this social buttons
 
