@@ -18,7 +18,7 @@ As computers have been a big topic for my in the past, I would say video games, 
 
 Since October 2017 I am studying 'Electrical and Computer Engineering' @ TU Munich (TUM) which was a great choice because it combines both Computer Technology and Electronics with much possibilities open for the future development of the IT industry.  
 
-If you are more interested in my work experience (internships), IT skills,.. please check out my [https://linkedin.com/in/philipp-van-kempen-8628b7124](LinkedIn)
+If you are more interested in my work experience (internships), IT skills,.. please check out my [LinkedIn](https://linkedin.com/in/philipp-van-kempen-8628b7124)
 
 Thank you for reading and visitig mit page. I hope you can find everything you want to know, but feel free to contact me (information at the bottom of this page)...
 
