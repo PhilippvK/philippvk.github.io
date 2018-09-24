@@ -68,10 +68,6 @@ DefaultContentLanguage           = "en"                    # Default language fo
 
     [[params.social]]
     url = "TODO"
-    icon = "keybase"
-
-    [[params.social]]
-    url = "TODO"
     icon = "key"
 
 # If you don't want to use the default menu, you can define one by yourself
