@@ -1,6 +1,6 @@
 language: go
 install: 
-- go get -v github.com/spf13/hugo@v0.48
+- go get -v github.com/spf13/hugo
 script:
 - hugo
 notifications:
