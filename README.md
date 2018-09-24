@@ -1,5 +1,4 @@
-# philippvk.github.io 
-[![Build Status](https://travis-ci.org/PhilippvK/philippvk.github.io.svg)](https://travis-ci.org/PhilippvK/philippvk.github.io)
+# philippvk.github.io [![Build Status](https://travis-ci.org/PhilippvK/philippvk.github.io.svg?branch=source)](https://travis-ci.org/PhilippvK/philippvk.github.io)
 
 My static Website generated with Hugo
 
