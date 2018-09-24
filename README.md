@@ -10,15 +10,15 @@ I use Travis CI for automated building
 
 * *master*
 
-Output of the generated static website
+  Output of the generated static website
 
 * *source*
-
-Source code for Hugo static website generator (production)
+  
+  Source code for Hugo static website generator (production)
 
 * *test*
-
-Develompent source code
+  
+  Develompent source code
 
 ### Requirements
 
