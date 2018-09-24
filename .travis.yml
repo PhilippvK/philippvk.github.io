@@ -1,5 +1,7 @@
 language: go
-install: go get -v github.com/spf13/hugo
+install: 
+- go get -v github.com/spf13/hugo
+- dep ensure --add github.com/spf13/hugo@v0.48
 script:
 - hugo version
 notifications:
