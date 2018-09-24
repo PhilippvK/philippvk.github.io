@@ -1,79 +1,112 @@
-baseurl             = "/"
-languageCode        = "en-us"
-title               = "Phi."
-theme               = "introduction2"
-#enforce_ssl         = "philippvk.github.io"
-builddrafts         = true # DEBUG
-canonifyurls        = true
-contentdir          = "content"
-layoutdir           = "layouts"
-publishdir          = "public"
-googleAnalytics   = "UA-106863833-1"
-
-[permalinks]
-fixed = ":title/"
-blog  = "blog/:slug/"
+baseURL                          = "/"  # Your domain name. Must end with "/"
+theme                            = "introduction3"
+DefaultContentLanguage           = "en"                    # Default language for multilingual sites
+# disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
+# googleAnalytics                 = ""                       # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
-author        = "Philipp van Kempen" # Full name shows on blog post pages
-firstname     = "Phi" # First name shows in introduction on main page
-tagline       = "I'm a programmer and studying Electrical Engineering." # Appears after the introduction
-introheight   = "medium" # Input either 'medium' or 'large' or 'fullheight'
-avatar        = "img/Scan_Photo.jpg" # Path to image in static folder eg. img/avatar.png
-email         = "phvankempen@googlemail.com" # Shows in contact section, or leave blank to omit
-dateform      = "Jan 2, 2006"
-dateformfull  = "Mon Jan 2 2006 15:04:05 EST"
-cachebuster   = true # Add the current unix timestamp in query string for cache busting css assets
-description   = "Philipp van Kempen's"
-faviconfile   = "img/logo.png"
-highlightjs   = true # Syntax highlighting
-lang          = "en"
-theme         = "light"
-footertext    = "Introduction theme by Vicky Lai for Hugo. Copyright © Philipp van Kempen - 2017" # Text to show in footer (overrides default text)
-fadein = true
-localtime = true # Show your current local time in contact section
-timezone = "Europe/Berlin" # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+    themeStyle                   = "light"                 # Choose "light" or "dark"
+    favicon                      = "/img/logo.png"          # Path to favicon file
+    showRSSButton                = true                   # Show rss button in navigation
+    fadeIn                       = true                    # Turn on/off the fade-in effect
+    dateFormat                   = "Jan 2, 2006"
+    email                        = "philipp.van-kempen@tum.de"   # E-mail address for contact section
+    # customCSS                    = ["foo.css"]             # Include custom css files placed under assets/
 
-[[params.social]]
-url = "https://twitter.com/phiologe"
-icon = "twitter"
+    # Configure the home page
+    [params.home]
+        introHeight              = "large"                 # Input either "medium" or "large" or "fullheight"
+        showLatest               = true                    # Show latest blog post summary
+        showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
+        numberOfProjectsToShow   = 3                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
 
-[[params.social]]
-url = "https://facebook.com/"
-icon = "facebook"
+        localTime                = true                    # Show your current local time in contact section
+        timeZone                 = "Europe/Berlin"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+    [params.projects]
+        useTwoColumns            = true                   # Use a layout with two columns instead of three
 
-[[params.social]]
-url = "https://www.xing.com/profile/Philipp_vanKempen"
-icon = "xing"
+    # Share buttons on blog post pages
+    [params.share]
+        twitter                  = true
+        facebook                 = true
+        googlePlus               = false
+        pinterest                = false
 
-[[params.social]]
-url = "https://www.linkedin.com/in/philipp-van-kempen-8628b7124/"
-icon = "linkedin"
+    # Social icons appear in introduction and contact section. Add as many more as you like.
+    # Find icon names here: https://fontawesome.com/cheatsheet/
+    [[params.social]]
+    url = "https://twitter.com/phiologe"
+    icon = "twitter"
+    
+    [[params.social]]
+    url = "https://facebook.com/"
+    icon = "facebook"
+    
+    [[params.social]]
+    url = "https://www.xing.com/profile/Philipp_vanKempen"
+    icon = "xing"
+    
+    [[params.social]]
+    url = "https://www.linkedin.com/in/philipp-van-kempen-8628b7124/"
+    icon = "linkedin"
+    
+    [[params.social]]
+    url = "https://github.com/PhilippvK"
+    icon = "github"
+    
+    [[params.social]]
+    url = "https://gitlab.com/PhilippvK"
+    icon = "gitlab"
+    
+    [[params.social]]
+    url = "https://plus.google.com/u/0/+PhilippvanKempen1"
+    icon = "google-plus"
 
-[[params.social]]
-url = "https://github.com/PhilippvK"
-icon = "github"
+    [[params.social]]
+    url = "https://mastodonten.de/@phiologe"
+    icon = "mastodon"
 
-[[params.social]]
-url = "https://plus.google.com/u/0/+PhilippvanKempen1"
-icon = "google-plus"
+    [[params.social]]
+    url = "TODO"
+    icon = "keybase"
 
-showblog        = true # Show Blog section on home page
-showallposts    = true # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
-showlatest      = true # Show latest blog post summary
-sharebuttons    = true # On post pages, show share this social buttons
+    [[params.social]]
+    url = "TODO"
+    icon = "key"
 
-showprojects    = true # Show Projects section on home page
+# If you don't want to use the default menu, you can define one by yourself
+# [[menu.main]]
+#     name    = "Home"
+#     url     = "/"
+#     weight  = 0
+# [[menu.main]]
+#     name    = "Blog"
+#     url     = "/blog/"
+#     weight  = 1
 
-# This is your projects section. Three images of the same dimensions will look the nicest. If images are omitted, text links will be shown.
-project1link    = "#"
-project1img     = "img/project1.jpg"
-project1title   = "Gadgets"
+# We only use tag as a taxonomies
+# You can add more by yourself
+[taxonomies]
+  tag = "tags"
 
-project2link    = "#"
-project2img     = "img/project2.jpg"
-project2title   = "Music"
+[languages]
+    [languages.en]
+        languageName     = "English"
+        languageCode     = "en-us"
+        contentDir       = "content/en"
+        weight           = 0
+        title            = "I'm Phi."
+        [languages.en.params]
+            description  = "Phi's Homepage"   # Max 160 characters show in search results
+            footerText   = "Copyright © Philipp van Kempen, 2018"                      # Text to override default footer text (markdown allowed)
 
-project3link    = "#"
-project3img     = "img/project3.jpg"
-project3title   = "Electronics"
+    [languages.de]
+        languageName     = "Deutsch"
+        languageCode     = "de"
+        contentDir       = "content/de"
+        weight           = 2
+        title            = "I'm Phi."
+        [languages.de.params]
+            dateFormat   = "2. January 2006"
+            description  = "Phi's Webseite"
+            footerText   = "Copyright © Philipp van Kempen, 2018"
