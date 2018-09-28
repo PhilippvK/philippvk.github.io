@@ -1,9 +1,12 @@
 language: go
 install: 
-- go get -v github.com/spf13/hugo
+- go version
+#- go get -v github.com/spf13/hugo
 script:
+- pwd
+- ls
 - hugo version
-- bin/hugo
+- ./bin/hugo
 notifications:
   email:
     on_failure: always
