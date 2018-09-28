@@ -5,8 +5,8 @@ install:
 - python3 test/hugo.py
 script:
  #- apt-get install libstdc++6
-- npm install postcss-cli
-- npm install autoprefixer
+- npm install -D postcss-cli
+- npm install -D autoprefixer
  #- ./bin/hugo version
 - ./bin/hugo
 notifications:
