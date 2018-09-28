@@ -1,11 +1,9 @@
 language: go
-install: 
-- go version
+#install: 
+#- go version
 #- go get -v github.com/spf13/hugo
 script:
-- pwd
-- ls
-- hugo version
+- ./bin/hugo version
 - ./bin/hugo
 notifications:
   email:
