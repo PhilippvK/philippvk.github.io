@@ -3,6 +3,8 @@ install:
 - go version
 #- go get -v github.com/spf13/hugo
 script:
+- npm install postcss-cli
+- npm install autoprefixer
 - ./bin/hugo version
 - ./bin/hugo
 notifications:
