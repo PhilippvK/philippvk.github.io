@@ -16,7 +16,7 @@ import subprocess
 
 utility_name = 'Hugo'
 #hugo_release_api='https://api.github.com/repos/gohugoio/hugo/releases/latest'
-hugo_release_api='https://api.github.com/repos/gohugoio/hugo/releases/tags/v0.48'
+hugo_release_api='https://api.github.com/repos/gohugoio/hugo/releases/tags/v0.47'
 symlink_path = 'bin/hugo'
 pack_save_dir = '/tmp'
 target_dir = "/opt/" + utility_name
