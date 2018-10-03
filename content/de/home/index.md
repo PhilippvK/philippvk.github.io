@@ -1,6 +1,6 @@
 ---
-title: "Hallo, ich bin Vorstellung"
+title: "Hi, I'm Phi."
 headless: true
 ---
 
-Ich bin ein Hugo Theme
+I'm a programmer and studying Electrical Engineering. 

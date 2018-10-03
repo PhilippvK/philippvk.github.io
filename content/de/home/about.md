@@ -21,4 +21,4 @@ Since October 2017 I am studying 'Electrical and Computer Engineering' @ TU Muni
 
 If you are more interested in my work experience (internships), IT skills,.. please check out my [LinkedIn](https://linkedin.com/in/philipp-van-kempen-8628b7124)
 
-Thank you for reading and visitig mit page. I hope you can find everything you want to know, but feel free to contact me (information at the bottom of this page)...end auf Markdown mit Unterstützung für HighlightJS
+Thank you for reading and visitig mit page. I hope you can find everything you want to know, but feel free to contact me (information at the bottom of this page)...
