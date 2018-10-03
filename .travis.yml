@@ -1,17 +1,18 @@
 language: python3
 env:
 - HUGO_VERSION="0.48"
-- HUGO_VERSION="0.49.1"
+- HUGO_VERSION="0.49"
 install:
 - wget -q https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
 - tar xf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+- ls
 - mv hugo ~/bin/
 - npm install -D postcss-cli
 - npm install -D autoprefixer
 script:
 - python -V
-- /bin/hugo version
-- /bin/hugo
+- ~/bin/hugo version
+- ~/bin/hugo
 notifications:
   email:
     on_failure: always
