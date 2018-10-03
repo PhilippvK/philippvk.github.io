@@ -15,10 +15,10 @@ DefaultContentLanguage           = "en"                    # Default language fo
 
     # Configure the home page
     [params.home]
-        introHeight              = "large"                 # Input either "medium" or "large" or "fullheight"
+        introHeight              = "medium"                 # Input either "medium" or "large" or "fullheight"
         showLatest               = true                    # Show latest blog post summary
-        showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
-        numberOfProjectsToShow   = 3                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
+        showAllPosts             = true                   # Set true to list all posts on home page, or set false to link to separate blog list page
+        numberOfProjectsToShow   = 4                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
 
         localTime                = true                    # Show your current local time in contact section
         timeZone                 = "Europe/Berlin"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -59,16 +59,17 @@ DefaultContentLanguage           = "en"                    # Default language fo
     icon = "gitlab"
     
     [[params.social]]
+    url = "blog/keys"
+    icon = "key"
+
+    [[params.social]]
     url = "https://plus.google.com/u/0/+PhilippvanKempen1"
     icon = "google-plus"
-
+    
     [[params.social]]
     url = "https://mastodonten.de/@phiologe"
     icon = "mastodon"
 
-    [[params.social]]
-    url = "TODO"
-    icon = "key"
 
 # If you don't want to use the default menu, you can define one by yourself
 # [[menu.main]]
@@ -100,7 +101,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageName     = "Deutsch"
         languageCode     = "de"
         contentDir       = "content/de"
-        weight           = 2
+        weight           = 0
         title            = "I'm Phi."
         [languages.de.params]
             dateFormat   = "2. January 2006"
