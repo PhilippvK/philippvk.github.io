@@ -1,14 +1,17 @@
 language: python3
-install: 
-#- go version
-#- go get -v github.com/spf13/hugo
-- python3 test/hugo.py
-script:
- #- apt-get install libstdc++6
+env:
+- HUGO_VERSION="0.48"
+- HUGO_VERSION="0.49.1"
+install:
+- wget -q https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+- tar xf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+- mv hugo ~/bin/
 - npm install -D postcss-cli
 - npm install -D autoprefixer
- #- ./bin/hugo version
-- ./bin/hugo
+script:
+- python -V
+- /bin/hugo version
+- /bin/hugo
 notifications:
   email:
     on_failure: always
