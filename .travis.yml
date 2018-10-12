@@ -6,11 +6,11 @@ install:
 - tar xf hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
 - ls
 - mv hugo ~/bin/
-- npm install -g postcss-cli
-- npm install -g autoprefixer
+  #- npm install -g postcss-cli
+  #- npm install -g autoprefixer
 script:
 - python -V
-- ~/bin/hugo version
+  #- ~/bin/hugo version
 - ~/bin/hugo
 notifications:
   email:
