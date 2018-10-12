@@ -8,14 +8,17 @@ before_install:
   #- npm install -g postcss-cli
   #- npm install -g autoprefixer
 install:
-- wget -q https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
-- tar xf hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
-- ls
-- mv hugo ~/bin/
+  - wget -q -O hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux_64bit.deb
+  - sudo dpkg -i hugo.deb
+    #install:
+    #- wget -q https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
+    #- tar xf hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
+    #- ls
+    #- mv hugo ~/bin/
 script:
 - python -V
-  #- ~/bin/hugo version
-- ~/bin/hugo
+  hugo version
+- hugo
 notifications:
   email:
     on_failure: always
