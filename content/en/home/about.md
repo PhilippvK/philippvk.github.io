@@ -1,9 +1,8 @@
-+++
-date = "2017-03-09T13:19:25+08:00"
-draft = false
-title = "about"
-
-+++
+---
+title: "About"
+image: "profile.jpg"
+weight: 0
+---
 
 My name is Philipp van Kempen, I'm 21 years old and living in Munich, Germany. I would like to use this page to introduce myself, my opinion and my projects to you. There is much stuff I am interested in.
 
@@ -21,4 +20,3 @@ Since October 2017 I am studying 'Electrical and Computer Engineering' @ TU Muni
 If you are more interested in my work experience (internships), IT skills,.. please check out my [LinkedIn](https://linkedin.com/in/philipp-van-kempen-8628b7124)
 
 Thank you for reading and visitig mit page. I hope you can find everything you want to know, but feel free to contact me (information at the bottom of this page)...
-
