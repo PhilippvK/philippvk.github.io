@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Topics"
 ---
 
-My Projects
+My Topics
