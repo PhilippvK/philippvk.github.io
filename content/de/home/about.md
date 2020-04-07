@@ -6,7 +6,7 @@ weight: 0
 
 TODO: UEBERSETZEN
 
-My name is Philipp van Kempen, I'm 21 years old and living in Munich, Germany. I would like to use this page to introduce myself, my opinion and my projects to you. There is much stuff I am interested in.
+My name is Philipp van Kempen, I'm 23 years old and living in Munich, Germany. I would like to use this page to introduce myself, my opinion and my projects to you. There is much stuff I am interested in.
 
 Already when I was a young teenager, I started learning programming and web develeopment by myself. Computers and the internet always have been the center of my life beside friendships and music.
 My interest in electronics came up after I bought an very old but awesome hifi stereo system , which was unfortunately broken. I spend much time understanding, repairing and reconditioning everything until everything worked fine and loved it, so later I was able to repair other amplifiers, tuners, record players and monitors by myself.
