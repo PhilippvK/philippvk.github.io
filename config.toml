@@ -62,10 +62,6 @@ DefaultContentLanguage           = "en"                    # Default language fo
     [[params.social]]
     url = "blog/keys"
     icon = "key"
-
-    [[params.social]]
-    url = "https://plus.google.com/u/0/+PhilippvanKempen1"
-    icon = "google-plus"
     
     [[params.social]]
     url = "https://mastodonten.de/@phiologe"
