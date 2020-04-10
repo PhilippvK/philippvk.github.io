@@ -1,5 +1,5 @@
 ---
-title: "Electronic"
+title: "Electronics"
 weight: 3
 ---
 
