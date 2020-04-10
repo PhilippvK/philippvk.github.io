@@ -8,17 +8,15 @@ Especially "Digital Design" and "Embedded Systems Engineering" are very integres
 
 Everything started with the elective subject "Technology", which I visited at the secondary school and taught me stuff like soldering and handling of simple circuits, on the other hand I dealt with the repair of old hi-fi equipment, which improved my understanding of analog circuits  a lot.
 
-TODO: BKB Fricke
-
 I applied digital logic for the first time using my RaspberryPi, later I used a DIY Atmel development board and now I  mostly tinker with Atmel ATTiny MCUs.
 
 Lately, I've also looked at HDLs and expanded my horizons about development with TI Launchpads and ESP8266 modules.
 
 During my bachelor studies in "Electrical and Computer Engineering" I earned much knownledge in different topics. Because it's way to much to summarize is here, I will append a list of the lectures I participated.
 
-TODO: TRANSLATE
+## Bachelor studies
 
-### mandatory lectures
+### Mandatory lectures
 
 * Analysis 1
 * Analysis 2
@@ -41,8 +39,23 @@ TODO: TRANSLATE
 * Elektrische Energietechnik
 * Elektronische Bauelemente
 
-### optional lectures
+### Optional lectures
 * Diskrete Mathematik für Ingenieure
 * Englisch - Intercultural Communication C1
-* ... TODO
+* Praktikum VHDL
+* Embedded Systems Programming Laboratory
+* Methoden der Unternehmensführung
+* Digitale Schaltungen
+* Kommunikationsnetze
+* Computational Intelligence
+* Real-Time and Embedded Systems 1
 
+# Master studies
+
+* VLSI Design Laboratory
+* SystemC Laboratory
+* Embedded Systems and Security
+* Memory Technologies for Data Storage
+* System-on-Chip Technologies
+* Electronic Design Automation
+* ...
