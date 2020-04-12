@@ -43,7 +43,7 @@ When I was a teenager, I played in a few punkrock/metal-bands.
 * Rode NT1-A microphone
 * Sennheiser E845 S stage microphone
 * Beyerdynamic DT-770 Pro studio headphones (80 Ohms)
-* iRig
+* IK Mul­ti­media iRig 2
 
 # Wishes
 
