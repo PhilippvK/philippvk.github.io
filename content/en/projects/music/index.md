@@ -20,6 +20,13 @@ When I was a teenager, I played in a few punkrock/metal-bands.
 * Acoustic amp (Noname)
 * Ibanez GTA 15R (Practice amp)
 
+## Guitar Effects
+
+* ProCo Rat 2 Distortion / Overdrive Pedal
+* Marshall JH-1 Jackhammer Distortion / Overdrive Pedal
+* Zoom G1XNext Multieffect Pedal
+* DIY Volume/Mute/Boost Pedal
+
 ## Interfaces
 
 * M-Audio FastTrack C400 (Recording interface)
