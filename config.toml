@@ -92,7 +92,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         title            = "I'm Phi."
         [languages.en.params]
             description  = "Phi's Homepage"   # Max 160 characters show in search results
-            footerText   = "Copyright © Philipp van Kempen, 2018"                      # Text to override default footer text (markdown allowed)
+            footerText   = "Copyright © Philipp van Kempen, 2020"                      # Text to override default footer text (markdown allowed)
 
     [languages.de]
         languageName     = "Deutsch"
