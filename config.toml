@@ -38,34 +38,38 @@ DefaultContentLanguage           = "en"                    # Default language fo
     [[params.social]]
     url = "https://twitter.com/phiologe"
     icon = "twitter"
-    
+
     [[params.social]]
     url = "https://facebook.com/"
     icon = "facebook"
-    
+
     [[params.social]]
     url = "https://www.xing.com/profile/Philipp_vanKempen"
     icon = "xing"
-    
+
     [[params.social]]
     url = "https://www.linkedin.com/in/philipp-van-kempen-8628b7124/"
     icon = "linkedin"
-    
+
     [[params.social]]
     url = "https://github.com/PhilippvK"
     icon = "github"
-    
+
     [[params.social]]
     url = "https://gitlab.com/PhilippvK"
     icon = "gitlab"
-    
+
     [[params.social]]
     url = "blog/keys"
     icon = "key"
-    
+
     [[params.social]]
     url = "https://mastodonten.de/@phiologe"
     icon = "mastodon"
+
+    [[params.social]]
+    url = "https://www.buymeacoffee.com/PhilippvK"
+    icon = "coffee"
 
 
 # If you don't want to use the default menu, you can define one by yourself
