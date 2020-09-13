@@ -1,6 +1,6 @@
 language: generic
 os: linux
-dist: xenial
+dist: focal
 env:
 - HUGO_VERSION="0.74.3"
 install:
