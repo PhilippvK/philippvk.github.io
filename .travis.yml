@@ -2,7 +2,7 @@ language: generic
 os: linux
 dist: xenial
 env:
-- HUGO_VERSION="0.49.2"
+- HUGO_VERSION="0.74.3"
 install:
   - npm install postcss-cli
   - npm install autoprefixer
