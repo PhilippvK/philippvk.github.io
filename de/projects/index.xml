@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projekte on I&#39;m Phi.</title>
+    <link>/de/projects/</link>
+    <description>Recent content in Projekte on I&#39;m Phi.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    
+	<atom:link href="/de/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elektronik</title>
+      <link>/de/projects/electronics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/de/projects/electronics/</guid>
+      <description>Das Thema Elektrotechnik ist definitiv meine größte Leidenschaft. Deswegen strebe ich auch eine Karriere in diesem Feld an. Besonders &amp;ldquo;Digital Design&amp;rdquo; und &amp;ldquo;Embedded Systems Engineering&amp;rdquo; haben es mir angetan.
+Begonnen hat alles zum einem mit dem Wahlfach &amp;ldquo;Technik&amp;rdquo;, welches ich auf der Realschule besucht habe und mir das Löten und den Umgang mit simplen Schaltungen nähergebracht hat, andererseits habe ich mich mit der Reperatur von alten Hifi-Geräten beschäftigt, welches mein Verständnis von analogen Schaltungen sehr verbessert hat.</description>
+    </item>
+    
+    <item>
+      <title>Musik</title>
+      <link>/de/projects/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/de/projects/music/</guid>
+      <description>Musik ist mein Leben. Deswegen musiziere in (falls ich Zeit finde) gerne, höre viel Musik und habe auch schon ein wenig Erfahrung mit Recordings gemacht. In meiner Jugend war ich Mitglied mehrerer Punkrock- bzw. Metalbands.
+TODO: Add pictures
+Mein Equipment: Instrumente  ESP LTD EC-1000 Vintage Black (E-Gitarre) Eigenbau Stratocaster im Holz-Look (Erbstück, Herkunft unbekant) Takamine Modell ??? (Westerngitarre)  Verstärker  Peavey Bandit ??? Akustikgitarrenverstärker (Noname?) Ibanez ?? (Übungsamp)  Schnitstellen  M-Audio FastTrack C400 (Audointerface)  HiFi  Canton ?</description>
+    </item>
+    
+    <item>
+      <title>Programmieren</title>
+      <link>/de/projects/programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/de/projects/programming/</guid>
+      <description>Ich kam bereits mit jungem Alter mit dem Thema programmieren in Kontakt. Soweit ich mich erinnern kann, ist alles mit Visual Basic angefangen. Darauf folgten Experimente mit HTML und CSS. Aus persönlichem Interesse habe ich mir darauf stets weitere Sprachen angeschaut und mit Webseiten, Bücher und Videos die ersten Schritte gemacht. Ich habe die Erfahrung gemacht, dass dies besonders erfolgreich funktioniert, wenn man bereits Ideen oder Projekte im Kopf hat, für welche man die jenige Programmiersprache benötigt.</description>
+    </item>
+    
+    <item>
+      <title>UNIX</title>
+      <link>/de/projects/unix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/de/projects/unix/</guid>
+      <description>Auch hier habe ich bereits vor dem Abitur Erfahrungen gesammelt. Ich habe auf Empfehlung eines Freundes nach viel Rumprobieren mit Ubuntu erstmals Linux Mint als produktiv-Betriebssystem auf meinem Laptop verwendet und schnell Windows nur noch wenig angerührt. Zu Beginn meines Studiums habe ich, meinen Windows&amp;amp;Linux-Laptop mit einem MacBook Pro ersetzt und so bin zumindest noch in einem UNIX-Umfeld unterwegs. Meine Faktultät an der Universität setzt glücklicherweise bei Studentenrechner ausschließlich auf Linux-Distributionen, was mich auch zu meiner Werkstudenten-Stelle gebraucht hab.</description>
+    </item>
+    
+    <item>
+      <title>Verschiedenes</title>
+      <link>/de/projects/miscellaneous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/de/projects/miscellaneous/</guid>
+      <description>TODO</description>
+    </item>
+    
+  </channel>
+</rss>

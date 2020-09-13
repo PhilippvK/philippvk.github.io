@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I&#39;m Phi.</title>
+    <link>/</link>
+    <description>Recent content on I&#39;m Phi.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Sep 2018 12:04:06 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Electronics</title>
+      <link>/projects/electronics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/electronics/</guid>
+      <description>Electrical engineering is definitely my biggest passion. That&amp;rsquo;s why I&amp;rsquo;m looking for a career in this field. Especially &amp;ldquo;Digital Design&amp;rdquo; and &amp;ldquo;Embedded Systems Engineering&amp;rdquo; are very integresting for me..
+Everything started with the elective subject &amp;ldquo;Technology&amp;rdquo;, which I visited at the secondary school and taught me stuff like soldering and handling of simple circuits, on the other hand I dealt with the repair of old hi-fi equipment, which improved my understanding of analog circuits a lot.</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>/projects/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/music/</guid>
+      <description>Music has always been important in my life. More or less often I play the guitar, listen to music and sometimes I try to produce/record my own music. When I was a teenager, I played in a few punkrock/metal-bands.
+My equipment: Instruments  ESP LTD EC-1000 Vintage Black (E-guitar) Handmade woodden stratocaster (heirloom, origin unknown) Takamine EG440SC (Western guitar)  Amps  Peavey Bandit 112 Sheffield (from 1990s) Acoustic amp (Noname) Ibanez GTA 15R (Practice amp)  Guitar Effects  ProCo Rat 2 Distortion / Overdrive Pedal Marshall JH-1 Jackhammer Distortion / Overdrive Pedal Zoom G1XNext Multieffect Pedal DIY Volume/Mute/Boost Pedal  Interfaces  M-Audio FastTrack C400 (Recording interface)  HiFi  Canton LGLE 70 SABA MI 212 SABA SABA ULTRA HiFi professional 9140 electronic SABA Tape Deck, Tuner and Phono  Other  Rode NT1-A microphone Sennheiser E845 S stage microphone Beyerdynamic DT-770 Pro studio headphones (80 Ohms) IK Mul­ti­media iRig 2  Wishes Of course my wish list is infinitely big, however, I plan the purchase of:</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/blog/hello_world/</link>
+      <pubDate>Wed, 26 Sep 2018 12:04:06 -0500</pubDate>
+      
+      <guid>/blog/hello_world/</guid>
+      <description>Dear reader of my blog. My website is currently in development. This post should be a placeholder! =)</description>
+    </item>
+    
+    <item>
+      <title>SSH &amp; GPG Keys</title>
+      <link>/blog/keys/</link>
+      <pubDate>Wed, 26 Sep 2018 10:06:15 +0200</pubDate>
+      
+      <guid>/blog/keys/</guid>
+      <description>My public SSH Key:
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDsskeFI5jm+PhfjXHyJ2z8AgZ6sLVVXLMaW12GdxcitKcXldEhGHVnRfIGuuEg2HDPP63QqxMQ2cftcX7sliKGt6F+alGUtaBCY0qJvQD2spHyWtjfZsXgwZ51k9QzX12wwsUNDgdEIgdPRgCDXUaht6rhHT58To0Oo4VY/FNq9qtW+UvwardBtwo5yyYrKCFFCdTAYtIPBAA/jm0TNrCDiowil59mGmjv74Tni7IPe9VO71mNi1b20BjWy9L224LvlWnbFCki8PXrahnoVawEaB5ZwD6tOyCvZI8T1ZYlWInyZsYMGM1Gnbu9Mu8oBgja2RxBJ5tEZqkjSI4nyQKR philippvk
+My public GPG Key for Mailing:
+-----BEGIN PGP PUBLIC KEY BLOCK----- Version: Mailvelope v2.2.2 Comment: https://www.mailvelope.com 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 Enh0kmSV0DNnrZA0kQc= =pjtZ -----END PGP PUBLIC KEY BLOCK----- </description>
+    </item>
+    
+    <item>
+      <title>Gaming</title>
+      <link>/projects/gaming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/gaming/</guid>
+      <description>TODO</description>
+    </item>
+    
+    <item>
+      <title>Hobbies</title>
+      <link>/projects/hobbies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/hobbies/</guid>
+      <description>TODO</description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>/projects/programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/programming/</guid>
+      <description>I got in touch with programming at an early age. As far as I can remember, everything started with Visual Basic. This was followed by experiments with HTML and CSS. Out of personal interest, I have always looked for other languages and made the first steps with websites, books and videos. I have found out that it works very well if you already have ideas or projects in mind, which require knownledge in the programming language.</description>
+    </item>
+    
+    <item>
+      <title>UNIX</title>
+      <link>/projects/unix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/unix/</guid>
+      <description>I have already gained much experience before graduation. On the recommendation of a friend and after a lot of trial and error with Ubuntu I first used Linux Mint as my productive operating system on my laptop and Windows quickly became irrelevant for me. At the beginning of my studies, I replaced my Windows &amp;amp; Linux laptop with a MacBook Pro, so at least I&amp;rsquo;m still working in an UNIX environment.</description>
+    </item>
+    
+  </channel>
+</rss>

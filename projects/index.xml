@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on I&#39;m Phi.</title>
+    <link>/projects/</link>
+    <description>Recent content in Topics on I&#39;m Phi.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Electronics</title>
+      <link>/projects/electronics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/electronics/</guid>
+      <description>Electrical engineering is definitely my biggest passion. That&amp;rsquo;s why I&amp;rsquo;m looking for a career in this field. Especially &amp;ldquo;Digital Design&amp;rdquo; and &amp;ldquo;Embedded Systems Engineering&amp;rdquo; are very integresting for me..
+Everything started with the elective subject &amp;ldquo;Technology&amp;rdquo;, which I visited at the secondary school and taught me stuff like soldering and handling of simple circuits, on the other hand I dealt with the repair of old hi-fi equipment, which improved my understanding of analog circuits a lot.</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>/projects/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/music/</guid>
+      <description>Music has always been important in my life. More or less often I play the guitar, listen to music and sometimes I try to produce/record my own music. When I was a teenager, I played in a few punkrock/metal-bands.
+My equipment: Instruments  ESP LTD EC-1000 Vintage Black (E-guitar) Handmade woodden stratocaster (heirloom, origin unknown) Takamine EG440SC (Western guitar)  Amps  Peavey Bandit 112 Sheffield (from 1990s) Acoustic amp (Noname) Ibanez GTA 15R (Practice amp)  Guitar Effects  ProCo Rat 2 Distortion / Overdrive Pedal Marshall JH-1 Jackhammer Distortion / Overdrive Pedal Zoom G1XNext Multieffect Pedal DIY Volume/Mute/Boost Pedal  Interfaces  M-Audio FastTrack C400 (Recording interface)  HiFi  Canton LGLE 70 SABA MI 212 SABA SABA ULTRA HiFi professional 9140 electronic SABA Tape Deck, Tuner and Phono  Other  Rode NT1-A microphone Sennheiser E845 S stage microphone Beyerdynamic DT-770 Pro studio headphones (80 Ohms) IK Mul­ti­media iRig 2  Wishes Of course my wish list is infinitely big, however, I plan the purchase of:</description>
+    </item>
+    
+    <item>
+      <title>Gaming</title>
+      <link>/projects/gaming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/gaming/</guid>
+      <description>TODO</description>
+    </item>
+    
+    <item>
+      <title>Hobbies</title>
+      <link>/projects/hobbies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/hobbies/</guid>
+      <description>TODO</description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>/projects/programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/programming/</guid>
+      <description>I got in touch with programming at an early age. As far as I can remember, everything started with Visual Basic. This was followed by experiments with HTML and CSS. Out of personal interest, I have always looked for other languages and made the first steps with websites, books and videos. I have found out that it works very well if you already have ideas or projects in mind, which require knownledge in the programming language.</description>
+    </item>
+    
+    <item>
+      <title>UNIX</title>
+      <link>/projects/unix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/unix/</guid>
+      <description>I have already gained much experience before graduation. On the recommendation of a friend and after a lot of trial and error with Ubuntu I first used Linux Mint as my productive operating system on my laptop and Windows quickly became irrelevant for me. At the beginning of my studies, I replaced my Windows &amp;amp; Linux laptop with a MacBook Pro, so at least I&amp;rsquo;m still working in an UNIX environment.</description>
+    </item>
+    
+  </channel>
+</rss>
